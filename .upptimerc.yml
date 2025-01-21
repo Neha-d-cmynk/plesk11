@@ -1,68 +1,68 @@
 # Change these first
 owner: jpleasants # Your GitHub organization or username, where this repository lives
-repo: plesk8 # The name of this repository
+repo: plesk11 # The name of this repository
 delay: 2000 # 2 seconds
 
 sites:
-  - name: Plesk 8
-    url: https://plesk8.samitsolutions.com
+  - name: Plesk 11
+    url: https://plesk11.samitsolutions.com
     port: 8443
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Africancarib Beanmarket
-    url: https://africancaribbeanmarket.com
+  - name: Tandoori Bitesdurham
+    url: https://tandooribitesdurham.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Shah and Associates FP Portal 
-    url: https://portal.shahandassociatesfp.com
+  - name: Clintrial Research
+    url: https://clintrialresearch.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: The Bright Five Venture
-    url: https://thebrightfiveventure.com
+  - name: obsn
+    url: https://obsn.org
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Azitra Us
-    url: https://azitra.us
+  - name: cholanad
+    url: https://cholanad.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Sixth Sense HI
-    url: https://sixthsensehi.com
+  - name: Cmc  Buildinginc
+    url: https://cmcbuildinginc.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: TripleR
-    url: https://tripler.com
+  - name: chaska Indiancuisine
+    url: https://chaskaindiancuisine.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Nukkad USA
-    url: https://nukkadusa.com
+  - name: carolina Retinaeye Care
+    url: https://carolinaretinaeyecare.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Modern Closets and Doors
-    url: https://modernclosetsanddoors.com
+  - name: Samit Solutions
+    url: https://samitsolutions.com
     expectedStatusCodes:
       - 200
       - 201
@@ -75,57 +75,15 @@ sites:
       - 201
       - 301
       - 403
-  - name: Vascular Wellness
+  - name: Cloven Cardamom
+    url: https://clovencardamom.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 403
+  - name: vascular wellness
     url: https://vascularwellness.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: rangoli Catering
-    url: https://rangolicatering.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Tandoori RTP
-    url: https://Tandoorinrtp.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: triangl Ehearing
-    url: https://trianglehearing.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Synapse-ic
-    url: https://synapse-ic.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Gardenroad Distributors
-    url: https://gardenroaddistributors.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: The Rangoli Restaurant
-    url: https://therangolirestaurant.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: The Airgap
-    url: https://theairgap.com
     expectedStatusCodes:
       - 200
       - 201
@@ -138,55 +96,24 @@ sites:
       - 201
       - 301
       - 403
-  - name: Wilson Digestive Diseases Center
-    url: https://wilsondigestivediseasescenter.com
+  - name: triangl Ehearing
+    url: https://trianglehearing.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Beta Search
-    url: https://beta-search.com
+  - name: Tandoor Chapelhill
+    url: https://tandoorchapelhill.com
     expectedStatusCodes:
       - 200
       - 201
       - 301
       - 403
-  - name: Campussafety Products
-    url: https://campussafetyproducts.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Carolinas Tie
-    url: https://tiecarolinas.org
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Midwest Sleep Medicine
-    url: https://midwestsleepmedicine.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Carolinas Tie
-    url: https://carolinas.tie.org
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403
-  - name: Executive eatsnyc 
-    url: https://executiveeatsnyc.com
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 403 
+ 
+   
+
+      
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
